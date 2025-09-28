@@ -6,8 +6,9 @@
 
 <h3 align="left">About Me</h3>
 <p>Hi! I'm Charlene, a Computer Science student trying to get by in this world<br><br>
-- Currently learning React and TypeScript <br>
-- Working on a personal project -> https://github.com/CharleneAurea/Guhitan
+Currently: <br>
+-> Learning React and TypeScript<br>->
+-> Working on a personal project - https://github.com/CharleneAurea/Guhitan <br>
 </p>
 <br>
 
